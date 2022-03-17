@@ -1,4 +1,4 @@
-### Hi! I'm Peter Chan, a graduate student. 👋
+### Hi!👋 I'm Peter Chan, a graduate student. 😄 
 
 <!--
 **silencessss/silencessss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
