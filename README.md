@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--BEAUTIFY GITHUB PROFILE-->
+<!--https://github.com/rzashakeri/beautify-github-profile-->
 <!--PROFILE VIEWS LINK-->
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
 ![](https://komarev.com/ghpvc/?username=silencessss&color=yellow&style=flat&label=PROFILE+VIEWS)
