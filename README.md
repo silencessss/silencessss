@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--PROFILE VIEWS LINK-->
+<!--https://github.com/antonkomarev/github-profile-views-counter-->
+![](https://komarev.com/ghpvc/?username=silencessss&color=yellow&style=flat&label=PROFILE+VIEWS)
+
 <h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>
 <h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>
+
+
 
 - 📫 How to reach me **m11002113@gapps.ntust.edu.tw**
 
