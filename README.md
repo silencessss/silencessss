@@ -20,18 +20,22 @@ Here are some ideas to get you started:
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
 ![](https://komarev.com/ghpvc/?username=silencessss&color=yellow&style=flat&label=PROFILE+VIEWS)
 
-<h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>
-<h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Peter%20Chan&fontAlign=60&fontAlignY=40&color=gradient)
+
+<!--<h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>-->
+<!--<h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>-->
 
 
 
-- 📫 How to reach me **m11002113@gapps.ntust.edu.tw**
+<!-- 📫 How to reach me **m11002113@gapps.ntust.edu.tw**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
-  <a href="https://www.linkedin.com/in/hung-tse-chan-23091a174/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hung-tse chan" height="30" width="100" /></a>
+<a href="https://www.facebook.com/peter5031111/" target="_blank"><img src="https://img.shields.io/badge/Facebook-white?style=plastic&logo=Facebook&logoColor=#1877F2"/></a>
+<a href="https://www.linkedin.com/in/hung-tse-chan-23091a174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=#0A66C2"/></a>
+<a href="mailto:﻿m11002113@gapps.ntust.edu.tw" target="_blank"><img src="https://img.shields.io/badge/Mail-red?style=plastic&logo=Gmail&logoColor=white"/></a>
+  <!--<a href="https://www.linkedin.com/in/hung-tse-chan-23091a174/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hung-tse chan" height="30" width="100" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
