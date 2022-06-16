@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
 ![](https://komarev.com/ghpvc/?username=silencessss&color=yellow&style=flat&label=PROFILE+VIEWS)
 
+
+
+
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Peter%20Chan&fontAlign=60&fontAlignY=40&color=gradient)
+
+[![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/peter-chan/home)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=VrJbmCYAAAAJ&hl=zh-TW)
 
 <!--<h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>-->
 <!--<h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>-->
@@ -31,6 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
 
 <a href="https://www.facebook.com/peter5031111/" target="_blank"><img src="https://img.shields.io/badge/Facebook-white?style=plastic&logo=Facebook&logoColor=#1877F2"/></a>
 <a href="https://www.linkedin.com/in/hung-tse-chan-23091a174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=#0A66C2"/></a>
