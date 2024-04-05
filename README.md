@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/peter-chan/home)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=VrJbmCYAAAAJ&hl=zh-TW)
+[![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Chan-Hung-Tse-2)
 
 <!--<h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>-->
 <!--<h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>-->
